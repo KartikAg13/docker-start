@@ -40,4 +40,4 @@ docker run -d \
 mongo-express
 ```
 
-* These commands are written in .yaml file in a more structured way and we also don't need to create a network *
+* These commands are written in .yaml file in a more structured way and we also don't need to create a network
