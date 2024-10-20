@@ -1,0 +1,13 @@
+{
+  "name": "docker-start",
+  "version": "1.0.0",
+  "description": "Simple Node.js with MongoDB and Mongo Express in Docker",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongodb": "^3.6.6"
+  }
+}
